@@ -1,0 +1,74 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.somoynews.tv/"
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "সময় নিউজ | সময়ের প্রয়োজনে সময়",
+        "alternateName": "সময় নিউজ | সময়ের প্রয়োজনে সময়",
+        "description": "দিনের শুরু-শেষে, জেনে নিন বাংলাদেশ ও বিশ্বসংবাদের সর্বশেষ আপডেট। এখানে পাবেন খেলা, রাজনীতি, চাকরি, বিনোদন, স্বাস্থ্য, লাইফস্টাইল এবং আরও ভিন্নধর্মী সংবাদ।",
+        "foundingDate": "2011-04-17",
+        "url": "https://www.somoynews.tv/",
+        "sameAs": [
+            "https://www.youtube.com/somoytvnetupdate/",
+            "https://www.facebook.com/somoynews.tv/",
+            "https://www.instagram.com/somoytvonline/",
+            "https://twitter.com/somoytv/",
+            "https://www.linkedin.com/company/somoynews/",
+            "https://www.pinterest.com/somoytv/",
+            "https://www.tiktok.com/@somoytv",
+            "https://t.me/s/somoynews_tv",
+            "https://play.google.com/store/apps/details?id=com.somoy",
+            "https://apps.apple.com/us/app/somoy-tv/id1234444890"
+        ],
+        "image": "https://somoynews.tv/icon.png",
+        "logo": {
+            "@type": "ImageObject",
+            "name": "সময় নিউজ | সময়ের প্রয়োজনে সময়",
+            "url": "https://www.somoynews.tv/icon.png",
+            "width": 192,
+            "height": 192
+        },
+        "email": "somoydigital@somoynews.tv",
+        "telephone": "+88029632521",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Nasir Trade Centre, Level-9, 89, Bir Uttam CR Dutta Road",
+            "addressLocality": "Dhaka",
+            "postalCode": "1205",
+            "addressCountry": "Bangladesh"
+        }
+    },
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "url": "https://www.somoynews.tv/",
+        "interactivityType": "mixed",
+        "name": "সময় নিউজ | সময়ের প্রয়োজনে সময়",
+        "headline": "দিনের শুরু-শেষে, জেনে নিন বাংলাদেশ ও বিশ্বসংবাদের সর্বশেষ আপডেট। এখানে পাবেন খেলা, রাজনীতি, চাকরি, বিনোদন, স্বাস্থ্য, লাইফস্টাইল এবং আরও ভিন্নধর্মী সংবাদ।",
+        "keywords": "somoy news, somoy tv news, somoy tv live, somoy tv, somoy tv live news, somoy tv live today, somoy tv news today, somoy news today, bangla news, সময় নিউজ, আজকের খবর, সময় টিভি লাইভ, সময়, সময় টিভি,  ক্রিকেট, ফুটবল, বাংলা নিউজ, জাতীয়, সময় টিভি লাইভ, আজকের খবর, আন্তর্জাতিক, সময় সংবাদ, বিনোদন, ব্রেকিং নিউজ, সময় টিভি আজকের খবর সরাসরি, সময় সংবাদ আজকের খবর, দুর্নীতি, রাজনীতি, লাইভ স্কোর",
+        "copyrightHolder": {
+            "@type": "Organization",
+            "name": "সময় নিউজ | সময়ের প্রয়োজনে সময়"
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.somoynews.tv/search/{search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.somoynews.tv/"
+        }
+    }
+]
