@@ -1,0 +1,30 @@
+{
+  "name": "learning-electron",
+  "productName": "learning-electron",
+  "version": "1.0.0",
+  "description": "Learning how to build desktop applications using Electron.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electromon .",
+    "lint": "eslint src --color",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Mohammad Sefatullah",
+  "license": "MIT",
+  "build": {
+    "appId": "com.learning-electron",
+    "win": {
+      "target": "msi",
+      "publisherName": "Mohammad Sefatullah"
+    }
+  },
+  "devDependencies": {
+    "electromon": "^1.0.10",
+    "electron": "^29.0.1",
+    "electron-builder": "^24.12.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.1.0"
+  }
+}
